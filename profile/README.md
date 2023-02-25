@@ -1,5 +1,5 @@
-# Welcome to KingHash
+# Welcome to NodeDAO 
 
-At KingHash, our mission is to let blockchain technology empower everything. We offer a complete suite of blockchain applications and technical infrastructure for businesses all in one platform. KingHash provide enterprise-grade node and staking infrastructure, multi-chain API suite, and developer tools while also actively participating in community & governance.
+NodeDao provides a decentralized solution for Ethereum liquidity staking. The NodeDAO protocol is a smart contract for next-generation liquidity staking derivatives that incorporates all concepts of traditional liquidity staking, permissionless operators, re-staking, distributed validators and validator NFTs in a single protocol.
 
-You can find our platform [here](https://www.kinghash.com/) and learn how to use our platform [here](https://docs.chainupcloud.com/).
+You can find more [here](https://nodedao.com/).
